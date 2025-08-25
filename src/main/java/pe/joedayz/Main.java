@@ -1,6 +1,4 @@
-package org.example;
-
-import java.sql.SQLOutput;
+package pe.joedayz;
 
 public class Main {
     public static void main(String[] args) {

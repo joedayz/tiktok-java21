@@ -1,4 +1,4 @@
-package org.example;
+package pe.joedayz;
 
 import java.sql.SQLOutput;
 import java.time.Duration;
