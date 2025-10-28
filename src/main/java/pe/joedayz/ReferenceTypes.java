@@ -8,6 +8,7 @@ import java.util.List;
 public class ReferenceTypes {
 
     public static void print(List<Integer> nums){
+
         System.out.println("I");
     }
     public static void print(Object o){
@@ -15,14 +16,15 @@ public class ReferenceTypes {
     }
 
     public static void print(CharSequence c){
+
         System.out.println("C");
     }
 
 //    public void fly(String s){
-//        System.out.println("string");
+//        System.out.print("string");
 //    }
 //    public void fly(Object o){
-//        System.out.println("object");
+//        System.out.print("object");
 //    }
 
     public static void main(String[] args) {
