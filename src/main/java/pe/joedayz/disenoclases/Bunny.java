@@ -4,7 +4,7 @@ public class Bunny {
 
     //public bunny(){}
     //public void Bunny(){}
-    public Bunny(var food){
-
-    }
+//    public Bunny(var food){
+//
+//    }
 }
