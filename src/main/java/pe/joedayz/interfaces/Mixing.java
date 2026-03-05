@@ -5,8 +5,8 @@ public class Mixing {
 
 interface canRun{}
 
-class Cheetah extends CanRun{}
+//class Cheetah extends CanRun{}
 
 class Hyena {}
 
-interface HasFur extends Hyena {}
+//interface HasFur extends Hyena {}
